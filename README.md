@@ -11,7 +11,6 @@ Super fast command prompt for remote shells over slow or even fast comms!
 - Provides a terminal, top, less etc work
 - Provides remote prompt
 - Works great for many tasks over slow connections like Tor Hidden Servers
-- Could be extended to offer tab completion, bash like line editing, an actual terminal.
 
 ### Unlike [Mosh](https://github.com/keithw/mosh):
 - Uses 100% ssh and socat with their security reviews/reputation
