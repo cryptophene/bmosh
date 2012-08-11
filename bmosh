@@ -1,0 +1,3 @@
+#!/bin/bash
+# Usage: bmosh ssh_server_name
+{ while read a; do echo $a; done ;} |ssh -t $1
